@@ -3,6 +3,7 @@
 #
 # TODO
 #	* Check result of request() call and react
+#	* Log results to multiple places (brewstat.us, brewfather?, MQTT?
 
 from modules import cbpi
 from thread import start_new_thread
